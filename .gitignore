@@ -4,6 +4,6 @@
 R/
 #Ignore .DS_Store. It's a mac thing
 .DS_store
-#Not doing parts 0-1
+#Part 0 contains nothing
 Part 0 *
 __MACOSX
